@@ -2,6 +2,7 @@ from keep_alive import keep_alive
 from instagrapi import Client
 import time
 
+keep_alive()
 
 # Giriş
 cl = Client()
