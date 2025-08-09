@@ -6,7 +6,7 @@ keep_alive()
 
 # Giriş
 cl = Client()
-cl.login("playboicartifc31, Eghuse1978")
+cl.login("playboicartifc31", "Eghuse1978")
 
 # Hedef kullanıcı
 hedef_kullanici_adi = "_karakuzu_egemen_"  # Sadece bu kişiden gelen mesajlara cevap ver
