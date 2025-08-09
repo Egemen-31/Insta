@@ -9,7 +9,7 @@ cl = Client()
 cl.login("playboicartifc31", "Eghuse1978")
 
 # Hedef kullanıcı
-hedef_kullanici_adi = "_karakuzu_egemen_"  # Sadece bu kişiden gelen mesajlara cevap ver
+hedef_kullanici_adi = "miiinaymis"  # Sadece bu kişiden gelen mesajlara cevap ver
 hedef_kullanici_id = cl.user_id_from_username(hedef_kullanici_adi)
 
 # Tek cevap atması için kontrol
